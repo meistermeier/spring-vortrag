@@ -1,0 +1,8 @@
+rootProject.name = 'spring-vortrag'
+
+include 'spring-mvc'
+
+include 'spring-di'
+
+include 'spring-data'
+

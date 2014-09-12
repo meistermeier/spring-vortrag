@@ -1,0 +1,45 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+a {
+    font-weight: bold;
+    color: #008000;
+    text-decoration: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #bb4444;
+}
+
+li {
+    list-style-type: circle;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+#hero-view {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+#hero-view img {
+    margin-left: 75px;
+}
+
+.detail-label {
+    font-weight: bold;
+    vertical-align: top;
+    display: inline-block;
+    width: 100px;
+}
+
+.detail-content {
+    display: inline-block;
+    width: 300px;
+}
